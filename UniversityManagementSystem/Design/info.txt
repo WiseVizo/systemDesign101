@@ -1,0 +1,33 @@
+Person
+-firstName: string
+-lastName: string
+-dob: date
+-phoneNumber: string
+
+Address
+-state: string
+-city: string
+-streetNumber: string
+-streetName: string
+-postalCode: string
+
+Professor
+-salary: float
+
+Student
+-isInternational: boolean
+-isPartTime(): boolean
+-isOnProbation(): boolean
+
+Course 
+-name: string
+-start: date
+-end: date
+-code: string
+-minStudents: int
+-maxStudents: int
+-isCanceled(): boolean
+
+Enroll
+-grades: float
+-date: date
