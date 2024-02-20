@@ -2,6 +2,6 @@
 
 ## How to navigate?
 
-## step1: choose a system design by the folder name
+- step1: choose a system design by the folder name
 
-## step2: <choosenDesign>/Design/problemStatement.txt for problem statement
+- step2: foldername/Design/problemStatement.txt for problem statement
